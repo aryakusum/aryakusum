@@ -30,16 +30,15 @@
 
 <br>
 
-```js
-const arya = {
-  name: "Muhamad Aryakusuma",
-  role: "Back-End Developer",
-  origin: "Indonesia 🇮🇩",
-  education: "Telkom University — D3 SIA",
-  status: "🟢 Open for Collaborations",
-  traits: ["Problem Solver", "Quick Learner", "Automation Addict"],
-  funFact: "I turn coffee into scalable APIs ☕ ➡️ 🔌",
-};
+```php
+class MuhamadAryakusuma {
+    public $role = "Back-End Developer";
+    public $origin = "Indonesia 🇮🇩";
+    public $education = "Telkom University — D3 SIA";
+    public $status = "🟢 Open for Collaborations";
+    public $traits = ["Problem Solver", "Quick Learner", "Automation Addict"];
+    public $funFact = "I turn coffee into scalable APIs ☕ ➡️ 🔌";
+}
 ```
 
 <br>

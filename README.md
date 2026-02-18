@@ -119,7 +119,7 @@ const arya = {
 <br>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryakusum&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryakusum&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 <br>
@@ -127,7 +127,7 @@ const arya = {
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/aryakusum/aryakusum/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aryakusum/aryakusum/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br>

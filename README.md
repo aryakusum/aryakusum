@@ -132,24 +132,6 @@ const arya = {
 
 <br>
 
----
-
-<br>
-
-## 🏆 Achievements & Trophies
-
-<br>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aryakusum&theme=onedark&no-frame=true&margin-w=15&column=7" />
-</div>
-
-<br>
-
----
-
-<br>
-
 <div align="center">
 
 ### 🤝 Let's Collaborate!

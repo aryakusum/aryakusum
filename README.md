@@ -1,105 +1,97 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=220&section=header&text=Muhamad%20Aryakusuma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Back-End%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=55&descAlign=50"/>
-
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=280&section=header&text=Muhamad%20Aryakusuma&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Back-End%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Automation%20Geek&descSize=20&descAlignY=55&descAlign=50"/>
+<br>
+<!-- SOCIAL BADGES -->
 <a href="https://github.com/aryakusum">
-<img src="https://img.shields.io/badge/GitHub-aryakusum-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-aryakusum-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:aryasatriawinata@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-aryasatriawinata-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-aryasatriawinata-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=aryakusum&style=for-the-badge&color=333333&label=PROFILE+VIEWS" />
-
 </div>
-
 ---
-
-## 🧑‍💻 About Me
-
+## 🧑‍💻 Who is Arya?
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+systems+with+Laravel;Specializing+in+AI+Integration;Turning+ideas+into+automated+workflows" alt="Typing SVG" />
+</div>
+<br>
 ```js
 const arya = {
   name: "Muhamad Aryakusuma",
   role: "Back-End Developer",
-  education: "Telkom University — D3 Sistem Informasi Akuntansi",
-  status: "🟢 Open to Work",
-  focus: ["Scalable Backend Systems", "AI Integration", "Automation"],
-  funFact: "I turn coffee into APIs ☕ → 🔌",
+  origin: "Indonesia 🇮🇩",
+  education: "Telkom University — D3 SIA",
+  status: "🟢 Open for Collaborations",
+  traits: ["Problem Solver", "Quick Learner", "Automation Addict"],
+  funFact: "I turn coffee into scalable APIs ☕ ➡️ 🔌",
 };
 ```
-
-- 🎓 Currently studying at **Telkom University** — D3 Sistem Informasi Akuntansi
-- 💻 Passionate about **Back-End Development** & **AI-powered systems**
-- 🔭 Currently working on **AI Security Systems** & **OCR with Generative AI**
-- 🌱 Always learning new technologies and best practices
-- ⚡ 10+ projects completed | 3+ years of coding experience
-
+### 🔭 Current Focus
+- 🏗️ Building a robust **Face Recognition Security System** with Python.
+- 🤖 Integrating **Generative AI** with OCR for smarter document indexing.
+- 📊 Optimizing financial data workflows in **Accounting Information Systems**.
+### 🌱 Learning & Growth
+- 🧠 Deepening knowledge in **LangChain** and **Large Language Models (LLMs)**.
+- 🐳 Mastering **Docker** and **Kubernetes** for scalable microservices.
+- 🎨 Improving front-end skills with **Tailwind CSS** and **Framermotion**.
 ---
-
-## 🛠️ Tech Stack
-
+## 🛠️ Tech Stack & Arsenal
 <div align="center">
-
-|                                                                                                                                                                                                                                                        Languages & Frameworks                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                 Database & Tools                                                                                                                                                                                                                                                  |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" /> |
-
+### Core Backend & AI
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,opencv,tensorflow&theme=dark" />
+</a>
+### Tools & Infrastructure
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vite,vscode,postman&theme=dark" />
+</a>
+### Frontend & Others
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css&theme=dark" />
+</a>
 </div>
-
 ---
-
-## 🚀 Featured Projects
-
-| Project                                                                                                                    | Description                                         | Tech              |
-| :------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------- | :---------------- |
-| 🏪 [**Mr. Mangkok POS**](https://github.com/aryakusum/tubes_framework)                                                     | Comprehensive Point of Sales for Culinary Business  | `Laravel` `MySQL` |
-| 💰 [**GrowCash**](https://github.com/aryakusum/growcash)                                                                   | Personal Finance & Budgeting Application            | `PHP` `MySQL`     |
-| 🔒 [**PKM Security**](https://github.com/aryakusum)                                                                        | Face Recognition & Object Detection Security System | `Python` `OpenCV` |
-| 📝 [**OCR GenAI**](https://github.com/aryakusum/Optical-Character-Recognition-dan-Generatif-ai-untuk-penjurnalan-otomatis) | Automated Journaling with OCR & Generative AI       | `Python` `AI`     |
-
----
-
-## 📊 GitHub Stats
-
+## 🚀 Featured Masterpieces
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryakusum&show_icons=true&theme=github_dark&border_color=333333&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aryakusum&theme=github-dark-blue&border=333333&background=0D1117&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" />
-
+| Project                | Description                                               |       Stack       |                                                       Link                                                        |
+| :--------------------- | :-------------------------------------------------------- | :---------------: | :---------------------------------------------------------------------------------------------------------------: |
+| 🏪 **Mr. Mangkok POS** | Enterprise POS system for culinary businesses.            | `Laravel` `MySQL` |                              [🔗 Repo](https://github.com/aryakusum/tubes_framework)                              |
+| 💰 **GrowCash**        | Smart personal finance management with AI categorization. |   `PHP` `Blade`   |                                 [🔗 Repo](https://github.com/aryakusum/growcash)                                  |
+| 🔒 **PKM Security**    | Advanced real-time face recognition security system.      | `Python` `OpenCV` |                                      [🔗 Repo](https://github.com/aryakusum)                                      |
+| 📝 **OCR GenAI**       | Automated accounting journaling using OCR + GPT.          | `Python` `Gemini` | [🔗 Repo](https://github.com/aryakusum/Optical-Character-Recognition-dan-Generatif-ai-untuk-penjurnalan-otomatis) |
+</div>
+---
+## 📊 My Coding Journey & Stats
+<div align="center">
+<!-- RELIABLE STATS CARDS -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryakusum&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=aryakusum&theme=tokyonight&border_radius=10" />
 <br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryakusum&layout=compact&theme=github_dark&border_color=333333&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&langs_count=8" />
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryakusum&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryakusum&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-> _"Code is like humor. When you have to explain it, it's bad."_ — Cory House
-
 <br>
-
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/aryakusum/aryakusum/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+---
+## 🏆 Achievements & Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aryakusum&theme=onedark&no-frame=true&margin-w=15&column=7" />
+</div>
+---
+<div align="center">
+### 🤝 Let's Collaborate!
+> _"The best way to predict the future is to invent it."_ — Alan Kay
+<br>
 <a href="mailto:aryasatriawinata@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email_Me-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📧_Email_Me-333333?style=for-the-badge" />
 </a>
 <a href="https://github.com/aryakusum">
-<img src="https://img.shields.io/badge/🔗_Follow_Me-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🔗_Follow_Me-181717?style=for-the-badge&logo=github" />
 </a>
-
 <br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=120&section=footer"/>
-
 </div>

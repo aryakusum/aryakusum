@@ -4,7 +4,6 @@
 
 <br>
 
-<!-- SOCIAL BADGES -->
 <a href="https://github.com/aryakusum">
 <img src="https://img.shields.io/badge/GitHub-aryakusum-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -15,14 +14,18 @@
 
 </div>
 
-<hr>
+<br>
+
+---
+
+<br>
 
 ## 🧑‍💻 Who is Arya?
 
+<br>
+
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+systems+with+Laravel;Specializing+in+AI+Integration;Turning+ideas+into+automated+workflows" alt="Typing SVG" />
-
 </div>
 
 <br>
@@ -39,11 +42,15 @@ const arya = {
 };
 ```
 
+<br>
+
 ### 🔭 Current Focus
 
 - 🏗️ Building a robust **Face Recognition Security System** with Python.
 - 🤖 Integrating **Generative AI** with OCR for smarter document indexing.
 - 📊 Optimizing financial data workflows in **Accounting Information Systems**.
+
+<br>
 
 ### 🌱 Learning & Growth
 
@@ -51,35 +58,41 @@ const arya = {
 - 🐳 Mastering **Docker** and **Kubernetes** for scalable microservices.
 - 🎨 Improving front-end skills with **Tailwind CSS** and **Framermotion**.
 
-<hr>
+<br>
+
+---
+
+<br>
 
 ## 🛠️ Tech Stack & Arsenal
+
+<br>
 
 <div align="center">
 
 ### Core Backend & AI
 
-<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,opencv,tensorflow&theme=dark" />
-</a>
 
 ### Tools & Infrastructure
 
-<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vite,vscode,postman&theme=dark" />
-</a>
 
 ### Frontend & Others
 
-<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css&theme=dark" />
-</a>
 
 </div>
 
-<hr>
+<br>
+
+---
+
+<br>
 
 ## 🚀 Featured Masterpieces
+
+<br>
 
 | Project                | Description                                               |       Stack       |                                                       Link                                                        |
 | :--------------------- | :-------------------------------------------------------- | :---------------: | :---------------------------------------------------------------------------------------------------------------: |
@@ -88,19 +101,25 @@ const arya = {
 | 🔒 **PKM Security**    | Advanced real-time face recognition security system.      | `Python` `OpenCV` |                                      [🔗 Repo](https://github.com/aryakusum)                                      |
 | 📝 **OCR GenAI**       | Automated accounting journaling using OCR + GPT.          | `Python` `Gemini` | [🔗 Repo](https://github.com/aryakusum/Optical-Character-Recognition-dan-Generatif-ai-untuk-penjurnalan-otomatis) |
 
-<hr>
+<br>
 
-## 📊 My Coding Journey & Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryakusum&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=aryakusum&theme=tokyonight&border_radius=10" />
+---
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryakusum&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" />
+## 📊 My Coding Journey & Stats
 
+<br>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryakusum&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=aryakusum&theme=tokyonight&border_radius=10" />
+</div>
+
+<br>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryakusum&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" />
 </div>
 
 <br>
@@ -108,22 +127,28 @@ const arya = {
 ### 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://github.com/aryakusum/aryakusum/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/aryakusum/aryakusum/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<hr>
+<br>
+
+---
+
+<br>
 
 ## 🏆 Achievements & Trophies
 
+<br>
+
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=aryakusum&theme=onedark&no-frame=true&margin-w=15&column=7" />
-
 </div>
 
-<hr>
+<br>
+
+---
+
+<br>
 
 <div align="center">
 
